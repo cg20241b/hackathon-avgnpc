@@ -71,6 +71,6 @@ After completing all requirements, your final project should showcase a properly
 
 **How to Run:**
 
-1. Start the server by running `npm start`.
+1. Start the server by running `npx vite`.
 2. Find the port where the server is running and click on the link to open the application in browser.
 
