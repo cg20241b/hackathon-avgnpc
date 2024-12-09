@@ -66,3 +66,11 @@ This project demonstrates custom vertex and fragment shaders using Three.js in a
 - Verify that the ambient, diffuse, and specular components are visually distinguishable and aligned with the specified materials (plastic vs. metal appearance).
 
 After completing all requirements, your final project should showcase a properly lit scene with custom shader materials, a dynamic light source, and interactive controls for both the light and camera.
+
+---
+
+**How to Run:**
+
+1. Start the server by running `npm start`.
+2. Find the port where the server is running and click on the link to open the application in browser.
+
